@@ -1,8 +1,16 @@
-## Hillary 
-Soy estudiante del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).</br>
 
 
-
+<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=110" />
+    <div align ="center">
+    <p> Hillary</p>
+    </div>
+ <div align ="center" width=100%>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=D491F7&width=435&lines=I'm+student+working+on+projects+" alt="Typing SVG" /></a>
+ </div>
+ 
+ <br>
+ <br>
+ 
 ### 💻 Langauges && Tech Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
