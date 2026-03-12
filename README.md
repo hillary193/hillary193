@@ -1,17 +1,49 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:c7a4ff,50:f7a4f7,100:a4c7ff&section=header"/>
 
 
-<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=110" />
-    <div align ="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=D491F7&width=435&lines=Hello!+I'm+Hillary" alt="Typing SVG" /></a>
-    </div>
- <div align ="center" width=100%>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=D491F7&width=435&lines=I'm+student+working+on+projects+" alt="Typing SVG" /></a>
- </div>
+<div align="center">
+  
+  <b>`simplicity`</b>
+  <samp>
+      <br>
+      <b >Hi there!</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=D491F7&width=900&size=22&center=true&lines=I'm+Hillary+Caceres;I'm+a+student+working+on+projects;welcome!" alt="Typing SVG"/>
+</div>
+
+
+<div align="left">
+  
+  <b>`About me`</b>
+  <samp>
+      <br>
+      <b >I enjoy working on projects that challenge me, whether it's designing interfaces, developing applications, or exploring databases and backend logic.  
+Right now, I'm focused on growing my portfolio, learning new tools, and building projects that help me become a better developer.</b>
+  </samp>
+</div>
+
+---
+</div>
+
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillary193&theme=tokyonight"/>
+
+</div>
+
+
  
- <br>
- <br>
- 
-### 💻 Langauges && Tech Tools
+<div align="center">
+  <samp>
+      <br>
+      <b >Language and tools</b>
+       <br>
+  </samp>
+</div>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,13 +52,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillary193&show_icons=true&locale=en" alt="hillary193" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hillary193&label=Profile%20views&color=b3b2ff&style=flat" alt="hillary193" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hillary193&label=Profile%20views&color=0e75b6&style=flat" alt="hillary193" />
-</p>
-<p>&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:c7a4ff,50:f7a4f7,100:a4c7ff&section=footer"/>
 
----
-<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" />
+
+
+
