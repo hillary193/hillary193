@@ -2,7 +2,7 @@
 
 <img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=110" />
     <div align ="center">
-    <p> Hillary</p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=D491F7&width=435&lines=Hello!+I'm+Hillary" alt="Typing SVG" /></a>
     </div>
  <div align ="center" width=100%>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=D491F7&width=435&lines=I'm+student+working+on+projects+" alt="Typing SVG" /></a>
@@ -29,5 +29,4 @@
 <p>&nbsp;
 
 ---
-
-
+<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" />
