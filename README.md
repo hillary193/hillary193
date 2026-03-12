@@ -34,10 +34,8 @@ Right now, I'm focused on growing my portfolio, learning new tools, and building
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillary193&theme=tokyonight"/>
 
 </div>
-
-
  
-<div align="center">
+<div align="left">
   <samp>
       <br>
       <b >Language and tools</b>
@@ -51,7 +49,7 @@ Right now, I'm focused on growing my portfolio, learning new tools, and building
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;&nbsp;&nbsp;![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hillary193&label=Profile%20views&color=b3b2ff&style=flat" alt="hillary193" />
 </p>
