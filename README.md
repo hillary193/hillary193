@@ -30,9 +30,8 @@ Right now, I'm focused on growing my portfolio, learning new tools, and building
 
 <div align="center">
   <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillary193&theme=tokyonight"/>
-
+  <br> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillary193&theme=radical" alt="Profile details badge"/>
 </div>
  
 <div align="left">
