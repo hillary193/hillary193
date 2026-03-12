@@ -1,6 +1,6 @@
 ## Hillary 
 Soy estudiante del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).</br>
-Durante el curso he trabajado en varios proyectos que reflejan todo lo que he aprendido hasta ahora, los cuales me han permitido aplicar mis conocimientos y seguir desarrollando mis habilidades de manera práctica.
+
 
 
 ### 💻 Langauges && Tech Tools
@@ -12,13 +12,13 @@ Durante el curso he trabajado en varios proyectos que reflejan todo lo que he ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillary193&show_icons=true&locale=en" alt="hillary193" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hillary193&label=Profile%20views&color=0e75b6&style=flat" alt="hillary193" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillary193&show_icons=true&locale=en" alt="hillary193" />
-</p>
-
 
 ---
 
